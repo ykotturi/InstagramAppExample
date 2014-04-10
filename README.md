@@ -1,3 +1,13 @@
+Yasmine Kotturi
+A09604679
+Assignment 0
+
+http://ykotturiassignment0.herokuapp.com/
+https://github.com/ykotturi/InstagramAppExample
+
+
+
+
 Instagram Example
 ===========
 
